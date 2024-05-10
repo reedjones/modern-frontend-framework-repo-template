@@ -1,7 +1,9 @@
 # modern-frontend-framework-repo-template
 A github repo template for modern web frameworks 🚀
 
-👋 Welcome to {project} 🚀 The most blazing fast 🔥framework™ ever! *[[1]](#1)
+👋 Welcome to {project} 🚀 
+
+The most blazing fast 🔥framework™ ever! *[[1]](#1)
 
 Write vanilla components in native Typescript using your existing 🧠's stack.
 
